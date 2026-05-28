@@ -11,4 +11,5 @@ Welcome to my GitHub profile.
 - My research interests include world models, 3D scene generation and editing, 3D understanding, and video generation.
 - I recently worked on AI for Science and agent reasoning during my visit to Nanyang Technological University (NTU).
 - Ask me about Python, PyTorch, 3D generation, world models, and agent reasoning.
+- Personal homepage: [jahnsonblack.github.io](https://jahnsonblack.github.io/)
 - How to reach me: [lhr123@mail.ustc.edu.cn](mailto:lhr123@mail.ustc.edu.cn)
